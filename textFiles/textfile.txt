@@ -1,0 +1,4 @@
+How do I insert Lorem Ipsum in Word?
+Insert Dummy Text in Microsoft Word
+
+Here's how: Just start a new paragraph in Word, type \=lorem() and hit Enter. For instance, =lorem(2,5) will create 2 paragraphs of Lorem Ipsum text and it will span across 5 lines (or sentences). The parameters are optional.
